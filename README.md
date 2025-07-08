@@ -1,85 +1,164 @@
-Login y portafolio web
+# <p align="center">Portafolio</p>
+
+## <p align="center">Portada</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7a1e7243-ee8a-4318-86b5-6af9b7779048" alt="Portada" />
+</p>
 
 
-![image](https://github.com/user-attachments/assets/0427bb76-fd25-4e8c-a9cf-919ea92dea26)
+## <p align="center">Breve explicación</p>
 
-Breve descripcion:
+<p align="justify">
+Este portafolio digital tiene como objetivo presentar de forma clara y profesional mi perfil, habilidades, experiencias y trabajos. El diseño sigue una línea visual moderna, utilizando colores sobrios como el negro, gris, blanco y azul, los cuales reflejan seriedad, profesionalismo y claridad visual. Está estructurado en secciones bien definidas para facilitar la lectura y comprensión.
+</p>
 
-Descripción del Login
-El sistema de login es una funcionalidad fundamental en cualquier aplicación o sitio web que requiera controlar el acceso a información o servicios exclusivos. Consiste en un formulario donde el usuario ingresa sus credenciales —normalmente un nombre de usuario, correo electrónico y contraseña— que son validadas contra una base de datos segura.
+---
 
-Este proceso de autenticación permite verificar la identidad del usuario y garantizar que solo personas autorizadas puedan acceder a ciertas áreas o realizar acciones específicas. Además, puede incluir medidas adicionales de seguridad como la encriptación de contraseñas, gestión de sesiones, protección contra ataques de fuerza bruta y opciones para recuperación de contraseña.
+## <p align="center">Barra de menú</p>
 
-Un buen sistema de login mejora la experiencia del usuario y protege la integridad de la plataforma.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/54de3f11-a9c6-4fd0-9d17-9218f0eed95e" alt="Barra de menú" />
+</p>
 
-Descripción del Portafolio
-Un portafolio personal es una herramienta digital que permite a un profesional mostrar sus habilidades, experiencia, proyectos y certificaciones de manera visual y organizada. Generalmente está compuesto por secciones que describen al individuo, sus conocimientos técnicos, experiencias académicas y laborales, y enlaces a trabajos realizados, como repositorios de código o proyectos web.
+<p align="justify">
+La barra de navegación principal está diseñada con un fondo oscuro (negro o gris oscuro) que resalta el texto claro, permitiendo una lectura cómoda sin distracciones. Se emplea una tipografía moderna sin serifas para reforzar la estética tecnológica. El espaciado entre opciones está bien distribuido, mejorando la legibilidad y la experiencia del usuario.
+</p>
 
-El portafolio es fundamental para que un desarrollador o cualquier profesional del área tecnológica pueda presentarse ante reclutadores, clientes o colaboradores, demostrando su capacidad y profesionalismo. Además, suele incluir elementos visuales atractivos, como imágenes, íconos, y un diseño responsive que se adapte a distintos dispositivos.
+<p align="justify">
+<strong>Justificación de diseño:</strong> Se optó por colores oscuros porque generan contraste, ayudan a centrar la atención y proyectan una sensación de estabilidad. El menú fijo mejora la usabilidad al permitir desplazarse a cualquier sección rápidamente.
+</p>
 
-Explicación documentación:
+---
 
- Explicación de la documentación del proyecto Login
-¿Cómo está compuesto el proyecto?
+## <p align="center">Portada de presentación principal</p>
 
-El proyecto de login está compuesto por varios archivos y módulos que trabajan en conjunto para ofrecer una funcionalidad segura y amigable para el usuario. Los principales componentes son:
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/70523689-b121-4081-8cec-a522c84d4bdf" alt="Portada" />
+</p>
 
-HTML: Contiene la estructura del formulario de inicio de sesión, donde el usuario ingresa su usuario y contraseña.
+<p align="justify">
+La portada actúa como carta de presentación visual. Se utiliza un fondo sobrio en color oscuro para destacar los textos en blanco o azul claro, creando contraste y enfoque inmediato. Esta sección contiene mi nombre, título profesional y una frase introductoria que resume mi perfil.
+</p>
 
-CSS: Define los estilos visuales del formulario y otros elementos, como colores, tipografías, tamaños y posiciones, para que la interfaz sea atractiva y fácil de usar.
+<p align="justify">
+<strong>Justificación de diseño:</strong> El contraste entre colores oscuros y tipografía clara genera una experiencia visual profesional y elegante. Esta sección cumple con el objetivo de causar una buena primera impresión sin sobrecargar la vista.
+</p>
 
-JavaScript: (Opcional) Maneja la validación en el cliente, mejora la experiencia de usuario, como verificar campos vacíos o formatos antes de enviar el formulario.
+---
 
-Backend (PHP, Node.js, etc.): Procesa los datos enviados, valida las credenciales con la base de datos y administra las sesiones de usuario.
+## <p align="center">Lenguajes y tecnologías</p>
 
-Base de datos: Guarda la información de los usuarios (usualmente con contraseñas cifradas) y permite su consulta para autenticar.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9f5b1b2a-e141-401a-9b01-706af96cb972" alt="Tecnologías" />
+</p>
 
-Principales métodos y funcionalidades
+<p align="justify">
+Aquí se presentan los lenguajes de programación, frameworks y herramientas que domino. El fondo blanco ayuda a que los logotipos de tecnologías destaquen. La estructura en forma de cuadrícula ordena visualmente los elementos.
+</p>
 
-Validación de datos: Se asegura que el usuario ingrese datos válidos, como un correo con formato correcto y una contraseña no vacía.
+<p align="justify">
+<strong>Justificación de diseño:</strong> El fondo claro se eligió para dar protagonismo a los íconos tecnológicos. La disposición en grid comunica orden y variedad de conocimientos de forma compacta y legible.
+</p>
 
-Autenticación: Compara las credenciales ingresadas con las almacenadas en la base de datos para permitir o negar acceso.
+---
 
-Manejo de sesiones: Mantiene la sesión activa mientras el usuario navega en la plataforma, permitiendo que acceda a recursos protegidos.
+## <p align="center">Apartado de mis experiencias académicas</p>
 
-Recuperación de contraseña: Permite a usuarios restablecer su contraseña mediante un proceso seguro (si está implementado).
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/27db8138-82e6-4681-a5b2-277be17e1128" alt="Académica 1" />
+</p>
 
-Estilos CSS principales
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9bbc4204-a8ac-48e9-8449-fe17448f2350" alt="Académica 2" />
+</p>
 
-Diseño responsive para que el formulario se adapte a diferentes tamaños de pantalla (móvil, tablet, escritorio).
+<p align="justify">
+Este apartado destaca proyectos, actividades y logros obtenidos durante mi formación académica. Cada elemento está claramente separado con colores suaves y secciones ordenadas, lo que mejora la lectura y comprensión.
+</p>
 
-Uso de colores contrastantes para resaltar campos y botones.
+<p align="justify">
+<strong>Justificación de diseño:</strong> Se usaron tonos neutros para centrar la atención en el contenido escrito y evitar distracciones. La organización en columnas mejora la navegación visual y ayuda a distinguir cada experiencia.
+</p>
 
-Estilos para inputs con validación visual (colores verdes o rojos según error o éxito).
+---
 
-Tipografía clara y moderna para mejorar la legibilidad.
+## <p align="center">Acerca más de mí</p>
 
-Posicionamiento centrado del formulario para una mejor experiencia de usuario.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/36f4d7fd-04b5-4d70-9c34-c8510e02162a" alt="Sobre mí" />
+</p>
 
-Capturas del Portafolio:
+<p align="justify">
+Esta sección tiene un enfoque más personal. Describe quién soy, mis intereses, motivaciones y valores. Se optó por un diseño accesible con fondo claro, estructura tipo párrafo y texto bien espaciado.
+</p>
 
-![image](https://github.com/user-attachments/assets/b99b56f2-771d-4086-8df6-1f3e9dd63877)
+<p align="justify">
+<strong>Justificación de diseño:</strong> La simplicidad del fondo y la estructura textual permiten que el lector conecte emocionalmente con el contenido. Humaniza mi perfil sin perder profesionalismo.
+</p>
 
-![image](https://github.com/user-attachments/assets/51ee577a-8d36-48d8-bb01-5a7c6c26f7c7)
+---
 
+## <p align="center">Experiencia laboral</p>
 
-![image](https://github.com/user-attachments/assets/033d9765-c7ac-437c-a7a4-1f18e8919511)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/600ee27a-e258-4ae1-97f3-f4a168e44a04" alt="Laboral" />
+</p>
 
+<p align="justify">
+Este apartado presenta mi experiencia en el ámbito profesional. Se organizan los trabajos en orden cronológico, con descripciones claras de cada rol y sus responsabilidades. Los colores neutros aportan sobriedad.
+</p>
 
-![image](https://github.com/user-attachments/assets/f7b36c03-7b32-4d45-b09e-46307e2f5794)
+<p align="justify">
+<strong>Justificación de diseño:</strong> El diseño sobrio y estructurado ayuda a transmitir madurez y experiencia profesional. Se busca claridad y enfoque en los logros laborales sin elementos visuales innecesarios.
+</p>
 
-![image](https://github.com/user-attachments/assets/70d63a29-9827-4fdc-9b3d-c6879391a39a)
+---
 
-![image](https://github.com/user-attachments/assets/786a27db-5c9b-44f3-a18e-c344654f1194)
+## <p align="center">Certificaciones y diplomas</p>
 
-Capturas del Login:
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6cb53776-cfa6-439b-9f17-f894b19ee4cf" alt="Certificados" />
+</p>
 
-![image](https://github.com/user-attachments/assets/bef416c9-19a3-4c39-985d-62dfa9ea835d)
+<p align="justify">
+Aquí se muestran los reconocimientos, cursos y certificaciones obtenidas. Se organizan como una galería para visualización rápida y ordenada. Cada diploma está claramente identificado.
+</p>
 
-Correo de Ejemplo: ESEWE@gmail.com
-contraseña de Ejemplo esewe123@
+<p align="justify">
+<strong>Justificación de diseño:</strong> El formato tipo galería evita el exceso de texto, muestra validaciones reales y proyecta confianza. El fondo claro y márgenes bien definidos aportan limpieza visual.
+</p>
 
+---
 
+## <p align="center">Mis trabajos en GitHub</p>
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4be1db37-f84b-46c1-9041-1e80a9d96267" alt="GitHub" />
+</p>
 
+<p align="justify">
+Este apartado exhibe los proyectos que he desarrollado o en los que he colaborado. Cada uno está acompañado de una descripción, tecnologías utilizadas y enlaces. El fondo oscuro aporta contraste con las tarjetas de proyecto.
+</p>
 
+<p align="justify">
+<strong>Justificación de diseño:</strong> El fondo oscuro resalta los elementos visuales y evita distracciones. Se busca transmitir orden, profesionalismo y variedad en los proyectos mostrados.
+</p>
+
+---
+
+## <p align="center">Contacto</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8adc80c8-02b6-4d54-a5ff-1e624e48b51a" alt="Contacto" />
+</p>
+
+<p align="justify">
+La sección final está dedicada a los medios de contacto. Incluye mi correo electrónico y enlaces a mis redes profesionales. El diseño es limpio, directo y fácilmente accesible.
+</p>
+
+<p align="justify">
+<strong>Justificación de diseño:</strong> La sencillez visual favorece la acción: contactar. Se eliminan elementos decorativos para no distraer, enfocando la atención en los datos de comunicación.
+</p>
+
+---
